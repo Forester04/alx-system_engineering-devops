@@ -1,1 +1,1 @@
-#!/bin/bash
+cat iacta | head -3
