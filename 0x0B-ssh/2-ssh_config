@@ -1,6 +1,3 @@
 Host *
-	HostName 10.130.128.198
-	User forerick
-	PubkeyAuthentication yes
 	passwordAuthentification no
 	IdentityFile ~/.ssh/school
